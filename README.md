@@ -1,3 +1,4 @@
+<img width="1920" height="637" alt="Hospital attendance Dashboard" src="https://github.com/user-attachments/assets/c7e4d9b9-a1d6-475f-8197-f4c56566ddde" />
 # Healthcare Operational Analytics: Appointment No-Show Optimization Strategy
 
 ## 🎯 The Business Challenge
